@@ -1,0 +1,7 @@
+C:\Users\Akallath\Desktop\Koululaput\Olio-ohjelmointi\Harjoitukset4\Har4Teht2\Har4Teht2\bin\Debug\Har4Teht2.exe.config
+C:\Users\Akallath\Desktop\Koululaput\Olio-ohjelmointi\Harjoitukset4\Har4Teht2\Har4Teht2\bin\Debug\Har4Teht2.exe
+C:\Users\Akallath\Desktop\Koululaput\Olio-ohjelmointi\Harjoitukset4\Har4Teht2\Har4Teht2\bin\Debug\Har4Teht2.pdb
+C:\Users\Akallath\Desktop\Koululaput\Olio-ohjelmointi\Harjoitukset4\Har4Teht2\Har4Teht2\obj\Debug\Har4Teht2.csprojResolveAssemblyReference.cache
+C:\Users\Akallath\Desktop\Koululaput\Olio-ohjelmointi\Harjoitukset4\Har4Teht2\Har4Teht2\obj\Debug\Har4Teht2.csproj.CoreCompileInputs.cache
+C:\Users\Akallath\Desktop\Koululaput\Olio-ohjelmointi\Harjoitukset4\Har4Teht2\Har4Teht2\obj\Debug\Har4Teht2.exe
+C:\Users\Akallath\Desktop\Koululaput\Olio-ohjelmointi\Harjoitukset4\Har4Teht2\Har4Teht2\obj\Debug\Har4Teht2.pdb
